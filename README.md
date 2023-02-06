@@ -1,4 +1,4 @@
-# ToyCryptoCoin
+# BasicCryptocurrency
 
 Hello every one
 - Here I show how to implement a simple blockchain and cryptocurrency using Python.
